@@ -52,4 +52,25 @@ export default tseslint.config({
   },
 })
 ```
+
+## Resources
+
+- [pnpm Installation](https://pnpm.io/installation)
+- [Vite Guide](https://vite.dev/guide/)
+- [React Router DOM](https://www.npmjs.com/package/react-router-dom)
+- [Tailwind CSS with Vite](https://tailwindcss.com/docs/installation/using-vite)
+- [React Documentation](https://react.dev/reference/react)
+
+## Getting Started
+
+To run this project locally:
+
+```bash
+# Install dependencies
+pnpm i
+
+# Start the development server
+pnpm dev
+```
+
 # rockelab-frontend2025
