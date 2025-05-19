@@ -72,5 +72,3 @@ pnpm i
 # Start the development server
 pnpm dev
 ```
-
-# rockelab-frontend2025
