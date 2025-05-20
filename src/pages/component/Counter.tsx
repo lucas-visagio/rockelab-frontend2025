@@ -1,4 +1,4 @@
-import { type CounterProps } from "../types/CounterInterface";
+import { type CounterProps } from "../../types/CounterInterface";
 
 
 
